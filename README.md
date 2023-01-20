@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://linkedin.com/in/carlos-adrian-virgili-nater-8247a118b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlos-adrian-virgili-nater-8247a118b/" height="30" width="40" /></a>
 </p>
+
 ```javascript
 const Carlos = {
     code: [Javascript, TypeScript, HTML, CSS],
