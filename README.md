@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Carlos Virgili</h1>
-<h3 align="center">A passionate Fullstack developer from Argentina</h3>
+<h3 align="center">I am a Full Stack Developer with a focus on Front End, specialized in JavaScript and experienced in tools such as React, Redux, Express, PostgreSQL, Material UI, Firebase and Sequelize. My experience in web development and skills in handling the mentioned technologies allows me to create attractive and functional solutions for users. Furthermore, I enjoy staying up to date with the latest web development trends and working in a team to achieve company goals. My goal is to continue developing as a professional and contribute to the company's success through my experience and skills.</h3>
 
 - 🔭 I’m currently working on [HenryGadget](https://github.com/cvirgili438/PF-HenryGadget)
 
