@@ -32,8 +32,7 @@ const Carlos = {
     code: [Javascript, TypeScript, HTML, CSS],
     tools: [React, Redux, Styled_Components, Express,...rest],
     certified: {
-        completed: {
-            
+        completed: {            
             SoyHenry: 'FullStack'[React, Express, postgresSQL]
         }
     hobbies: {
