@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/carlos-adrian-virgili-nater-8247a118b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlos-adrian-virgili-nater-8247a118b/" height="30" width="40" /></a>
+    <a aria-label="Chat on WhatsApp" href="https://wa.me/543537585662"> <img alt="Chat on WhatsApp" src="WhatsAppButtonGreenLarge.svg" /> </a>
+
 </p>
 
 ```javascript
