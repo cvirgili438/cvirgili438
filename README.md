@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 </p>
 ```javascript
 const Carlos = {
-    code: [Javascript, TypeScript, HTML, CSS, Sass, Python],
-    tools: [React, Redux, Styled_Components, Express, MongoDB, ...rest],
+    code: [Javascript, TypeScript, HTML, CSS],
+    tools: [React, Redux, Styled_Components, Express,...rest],
     certified: {
         completed: {
             
