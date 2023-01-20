@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Carlos Virgili</h1>
 <h3 align="center">A passionate Fullstack developer from Argentina</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cvirgili438" alt="cvirgili438" /></a> </p>
-
 - 🔭 I’m currently working on [HenryGadget](https://github.com/cvirgili438/PF-HenryGadget)
 
 - 🌱 I’m currently learning **Typescript and react native.**
@@ -27,7 +25,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/carlos-adrian-virgili-nater-8247a118b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/carlos-adrian-virgili-nater-8247a118b/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/carlos-adrian-virgili-nater-8247a118b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlos-adrian-virgili-nater-8247a118b/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
